@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58361661211",
+    "project_id": "reactapp-2a94c",
+    "storage_bucket": "reactapp-2a94c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58361661211:android:be991fea54690caf2175be",
+        "android_client_info": {
+          "package_name": "com.reactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58361661211-l8t7f5spqfvti04pi7u1nsf6mht9qmoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz6r_GhS0zc87EsnT0W7HX4WnW7cqkLw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58361661211-l8t7f5spqfvti04pi7u1nsf6mht9qmoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
